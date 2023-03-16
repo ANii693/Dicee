@@ -39,7 +39,7 @@ footer {
 }
 
 .btn {
-  border : solid black 0.1px;
+  border : solid #2a2d32 0.1px;
   display: block;
   margin: 8% auto;
   background: #393e46;
@@ -54,7 +54,7 @@ footer {
   font-family: "Indie Flower", cursive;
   color: #ffffff;
   font-size: 35px;
-  padding: 0 20px 0 14px;
+  padding: 4px 13px 0 13px;
   text-decoration: none;
 }
 
